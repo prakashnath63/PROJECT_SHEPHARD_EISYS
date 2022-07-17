@@ -426,7 +426,7 @@ html {
     .navbar {
         flex-direction: column;
         transition: all 0.7s ease-out;
-        height: 447px;
+        height: 640px;
     }
 
     .rightnav {
